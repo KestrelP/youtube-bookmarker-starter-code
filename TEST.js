@@ -1,3 +1,5 @@
-let test = "https://www.youtube.com/watch?v=0n809nd4Zu4&t=1541s&ab_channel=freeCodeCamp.org"
+const test = Math.PI;
+let strin = "jumping doggo"
+test.poo = strin.split("");
 
-console.log(test.split("?")[1]);
+console.log(test.poo);
